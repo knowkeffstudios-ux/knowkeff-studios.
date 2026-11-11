@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "KnowKeff Studios Streaming",
+  "short_name": "KnowKeff",
+  "description": "Independent films, documentaries and original stories from KnowKeff Studios.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
